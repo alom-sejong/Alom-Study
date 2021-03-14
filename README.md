@@ -10,7 +10,7 @@
 [스터디 신청하기]()
 
 ## 모집중인 스터디
-* UI/UX 스터디
+* UI/UX 기획 스터디
 
 ## 현재 진행중인 스터디
 * [IOS 스터디](https://github.com/alom-sejong/Alom-Study/blob/main/%EC%99%84%EB%A3%8C%EB%90%9C%20%EC%8A%A4%ED%84%B0%EB%94%94/study_ios.md)
